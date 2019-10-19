@@ -1,0 +1,127 @@
+a:hover
+{
+	border: 3px green ridge;
+	color: white;
+	border-radius: 15px;
+	box-shadow: 6px 8px 6px black ;
+	text-shadow: 2px 2px 4px green;
+	background-color: green;
+}
+a:active
+{
+	border: 3px green ridge;
+	color: red;
+	border-radius: 15px;
+	box-shadow: 6px 8px 6px black ;
+	text-shadow: 2px 2px 4px green;
+	background-color: green;
+}
+a
+{
+	color:white;
+	background-color: rgba(0,0,0,.5);
+}
+h2
+{
+	width: 30%;
+    border: 3px white ridge;
+	border-radius: 20px;
+	background-color: rgba(0,0,0,.5);
+	color: white;
+	text-align: center;
+	box-shadow: 6px 15px 2px black;
+	margin: auto;
+	padding: 10px 30px;
+
+}
+h3
+{
+	width: 20%;
+    border: 3px white ridge;
+	border-radius: 20px;
+	background-color: rgba(0,0,0,.5);
+	color: white;
+	text-align: center;
+	box-shadow: 6px 15px 2px black;
+	margin: auto;
+	padding: 10px 30px;
+
+	
+}
+p
+{
+	width: 20%;
+    border: 3px white ridge;
+	border-radius: 20px;
+	background-color: rgba(0,0,0,.5);
+	color: white;
+	text-align: center;
+	box-shadow: 6px 15px 2px black;
+	margin: auto;
+	padding: 10px 30px;
+
+	
+}
+div.main
+{
+	
+	background-image: url("images/terrain3.jpg");
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-position: top;
+	
+}
+img.center
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	opacity: 1.5;
+
+}
+ol
+{
+
+	width: 30%;
+    border: 3px white ridge;
+	border-radius: 20px;
+	background-color: rgba(0,0,0,.5);
+	color: white;
+	box-shadow: 6px 15px 2px black;
+	margin: auto;
+	padding: 10px 30px;
+
+}
+
+li
+{
+	color: white;
+}
+#menu
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+
+a
+{
+	width: 30%;
+    border: 3px white ridge;
+	border-radius: 20px;
+	background-color: rgba(0,0,0,.5);
+	color: white;
+	text-align: center;
+	box-shadow: 6px 15px 2px black;
+	margin: auto;
+	padding: 10px 30px;
+}
+body
+{
+	background-image: url(images/terrain1.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: top;
+}
